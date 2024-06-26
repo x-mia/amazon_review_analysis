@@ -1,5 +1,5 @@
 # amazon_review_analysis
-A simple classification naive bayes model to analyse the [Amazon Alexa Review dataset](https://www.kaggle.com/datasets/sid321axn/amazon-alexa-reviews) from Kaggle.
+A simple classification Naïve Bayes model to analyse the [Amazon Alexa Review dataset](https://www.kaggle.com/datasets/sid321axn/amazon-alexa-reviews) from Kaggle.
 
 ### Requirements
 * [Pandas](https://pandas.pydata.org/)
